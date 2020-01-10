@@ -1,11 +1,13 @@
 # Battleship
 
-Battleship game made in java with GUI widget toolkit Swing and  a MVC design pattern made entirely from scratch.
+Battleship game made in java with GUI widget toolkit Swing a desgiend in a MVC pattern made entirely from scratch.
 
 I worked on the algorithm that puts the ships randomnly on the board without them collising into each others or exiting the board.
-You can find that in Player.java.
-The files that I worked on were Bateaux.java, Player.java, AI.java and Control.java
-The logic of the game is in Control.Java but the game is not finished nor playable.
+You can find that in _Player.java_.
+
+The files that I worked on were _Bateaux.java_, _Player.java_, _AI.java_ and _Control.java_
+
+The logic of the game is in _Control.java_ but the game is not finished nor playable.
 
 
 # How to install 
