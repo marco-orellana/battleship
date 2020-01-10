@@ -1,6 +1,6 @@
 # Battleship
 
-Battleship game made in java with GUI widget toolkit Swing a desgiend in a MVC pattern made entirely from scratch.
+Battleship game made in java with GUI widget toolkit Swing a designed in a MVC pattern made entirely from scratch.
 
 I worked on the algorithm that puts the ships randomnly on the board without them collising into each others or exiting the board.
 You can find that in _Player.java_.
