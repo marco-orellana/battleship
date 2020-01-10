@@ -4,7 +4,7 @@ Battleship game made in java with GUI widget toolkit Swing and  a MVC design pat
 
 I worked on the algorithm that puts the ships randomnly on the board without them collising into each others or exiting the board.
 You can find that in Player.java.
-The files that I worked on were Bateaux.java, Player.java, AI,java and Control.java
+The files that I worked on were Bateaux.java, Player.java, AI.java and Control.java
 The logic of the game is in Control.Java but the game is not finished nor playable.
 
 
