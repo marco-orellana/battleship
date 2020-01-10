@@ -12,7 +12,7 @@ The logic of the game is in _Control.java_ but the game is not finished nor play
 
 # How to install 
 1. Download the [Eclipse IDE.]( https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers)
-2. Clone the repository on your computer (somewhere you will remember)
+2. Download the repository on your computer (somewhere you will remember)
 3. In the Eclipe IDE, click on _File_ and then click on _Open Projects from File System..._
 4. Click on _Directory..._ and select the repositery where you cloned it and click on _Finish_
 5. Run the project
