@@ -7,7 +7,7 @@ You can find that in _Player.java_.
 
 The files that I worked on were _Bateaux.java_, _Player.java_, _AI.java_ and _Control.java_
 
-The logic of the game is in _Control.java_ but the game is not finished nor playable.
+The logic of the game is in _Control.java_ but the game is not finished nor playable. We had 1 week to make the project.
 
 
 # How to install 
